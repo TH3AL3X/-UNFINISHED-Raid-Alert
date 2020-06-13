@@ -1,0 +1,20 @@
+J:\Todo\Informática\C# Sources\[darkness] RaidDiscord\bin\Debug\[darkness] RaidDiscord.dll
+J:\Todo\Informática\C# Sources\[darkness] RaidDiscord\bin\Debug\[darkness] RaidDiscord.pdb
+J:\Todo\Informática\C# Sources\[darkness] RaidDiscord\bin\Debug\Assembly-CSharp-firstpass.dll
+J:\Todo\Informática\C# Sources\[darkness] RaidDiscord\bin\Debug\Assembly-CSharp.dll
+J:\Todo\Informática\C# Sources\[darkness] RaidDiscord\bin\Debug\Newtonsoft.Json.dll
+J:\Todo\Informática\C# Sources\[darkness] RaidDiscord\bin\Debug\PlayerInfoLib.dll
+J:\Todo\Informática\C# Sources\[darkness] RaidDiscord\bin\Debug\Rocket.API.dll
+J:\Todo\Informática\C# Sources\[darkness] RaidDiscord\bin\Debug\Rocket.Core.dll
+J:\Todo\Informática\C# Sources\[darkness] RaidDiscord\bin\Debug\Rocket.Unturned.dll
+J:\Todo\Informática\C# Sources\[darkness] RaidDiscord\bin\Debug\UnityEngine.CoreModule.dll
+J:\Todo\Informática\C# Sources\[darkness] RaidDiscord\bin\Debug\UnityEngine.dll
+J:\Todo\Informática\C# Sources\[darkness] RaidDiscord\bin\Debug\UnityEngine.PhysicsModule.dll
+J:\Todo\Informática\C# Sources\[darkness] RaidDiscord\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+J:\Todo\Informática\C# Sources\[darkness] RaidDiscord\bin\Debug\UnityEngine.UI.dll
+J:\Todo\Informática\C# Sources\[darkness] RaidDiscord\bin\Debug\UnityEngine.SharedInternalsModule.dll
+J:\Todo\Informática\C# Sources\[darkness] RaidDiscord\obj\Debug\[darkness] RaidDiscord.csprojAssemblyReference.cache
+J:\Todo\Informática\C# Sources\[darkness] RaidDiscord\obj\Debug\[darkness] RaidDiscord.csproj.CoreCompileInputs.cache
+J:\Todo\Informática\C# Sources\[darkness] RaidDiscord\obj\Debug\[darkness] RaidDiscord.csproj.CopyComplete
+J:\Todo\Informática\C# Sources\[darkness] RaidDiscord\obj\Debug\[darkness] RaidDiscord.dll
+J:\Todo\Informática\C# Sources\[darkness] RaidDiscord\obj\Debug\[darkness] RaidDiscord.pdb
